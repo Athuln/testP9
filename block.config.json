@@ -1,0 +1,23 @@
+{
+  "blockId": "mY9seSlz3hsHOr31nhclh",
+  "name": "testP9Pack",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/Athuln/testP9.git",
+    "ssh": "git@github.com:Athuln/testP9.git",
+    "branch": "block_testP9Pack"
+  },
+  "parentBlockIDs": [
+    "qw0BIpWHTg0LDutBtBAm9"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "testP9Func1": {
+      "directory": "testP9Func1"
+    }
+  }
+}
