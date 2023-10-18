@@ -3,8 +3,8 @@
   "name": "testP9Func1",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/Athuln/testP9.git",
+    "ssh": "git@github.com:Athuln/testP9.git",
     "branch": "block_testP9Func1"
   },
   "parentBlockIDs": [
