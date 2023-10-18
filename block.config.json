@@ -1,0 +1,24 @@
+{
+  "name": "testP9",
+  "type": "package",
+  "blockId": "qw0BIpWHTg0LDutBtBAm9",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_testP9"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "testP9Func": {
+      "directory": "testP9Func"
+    },
+    "testP9Pack": {
+      "directory": "testP9Pack"
+    }
+  }
+}
